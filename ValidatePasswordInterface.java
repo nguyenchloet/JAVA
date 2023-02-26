@@ -1,3 +1,4 @@
+// Validate password with Password.java 
 import java.util.Scanner;
 
 public class Password {
